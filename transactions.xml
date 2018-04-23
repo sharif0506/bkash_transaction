@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<transactions> 
+    <transaction> 
+        <trxId>5652845</trxId> 
+        <trxStatus>0000</trxStatus> 
+        <service>Payment</service> 
+        <sender>01717171717</sender> 
+        <receiver>01818181818</receiver> 
+        <currency>BDT</currency> 
+        <amount>1</amount> 
+        <reference>moshiur.bhuiyan@qubee.com.bd</reference> 
+        <counter>1</counter> 
+        <trxTimestamp>2012-04-25 19:26:35.0</trxTimestamp> 
+    </transaction>
+</transactions>
